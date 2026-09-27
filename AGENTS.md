@@ -4,6 +4,8 @@
 - Use `uv` for dependency management and running commands.
 - Run the application with:
   `uv run agent-test`
+- Run tests with:
+  `uv run pytest`
 - Do not modify `.venv`.
 - Do not read or modify secrets or credentials.
 - Do not use `sudo` unless explicitly requested.
